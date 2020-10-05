@@ -1,0 +1,37 @@
+Nama 	: Bagas BUdhi Permana
+NIM 	: 16/396785/TK/44798
+Prodi 	: Teknik Elektro UGM
+
+"DOKUMENTASI DATA ANALYTICS"
+
+Pertama-tama penulis menganggap user menggunakan ubuntu (lebih baik 16.04) dan sudah terinstal Django versi 11 dan python versi 3.0 (untuk tutorial penginstalan Django dan python silahkan buka di websitenya masing-masing)
+
+project KP Xirka team UGM terdiri dari 1 project yang dibagi menjadi 3 team yaitu :
+team 1: Card Reader
+team 2: API dan server
+team 3: Data Analytics
+
+Saya bersama teman saya Fahri Wahyu Prastama mengerjakan project team 3
+ 
+Langkah-langkah:
+1.Extract file "Grafik.tar.gz" yang telah di download
+2.Buat folder bernama "Dev" di Desktop dan letakkan hasil ekstrak "Grafik.tar.gz" di folder tersebut yang bernama "tabel4
+3.Buka terminal ubuntu dan arahkan ke folder Dev "cd Dev"
+4.Aktifkan environtment di folder Dev dengan cara menulis "source Env/bin/Activate" pada terminal samapai terdapat tulisan "(Env)" di pojok kiri terminal
+5.Pastikan django dan python telah terinstal, caranya dengan mengetik "piplist" pada terminal dan akan muncul versi django dan python yang terpasang
+6.Masuk ke folder tabel4 dengan cara "cd tabel4"
+7.aktifkan server dengan memberi perintah pada terminal yaitu "python manage.py runserver", pada terminal akan ada tulisan seperti berikut :
+
+	Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2019 - 13:35:06
+Django version 1.11.17, using settings 'fusioncharts.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+8.Saat tulisan tersebut muncul artinya server telah berjalan tanpa kendala (no issues) kemudian untuk membuka website yang telah dibuat, copy-paste "http://127.0.0.1:8000/" di web browser.
+9.Setelah website terbuka. Masukkan username dan password (sembarang) dan klik login maka akan memunculkan data analitik berupa grafik batang dari jumlah kendaraan yang masuk dari 2 gate dan jumlah pendapatan total dari kedua pintu. Data tersebut didapat dari file berekstensi ".json" yang dikirim oleh team 2 dari pembacaan reader di Team 1.
+
+untuk penjelasan source code silahkan buka file ".py" melalui script editor seperti sublime text atau visual studio.
+
