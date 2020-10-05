@@ -13,13 +13,14 @@ Tools: `Fusion Chart`, `Django Web Frame Work`, `PostGRE SQL`
 Ini foto kami cia cia cia KP beres Puji Tuhan Alhamdulillah
 
 
-Lumayan belajar basic web
+Lumayan belajar basic web (front end aja)
 
-
+### Tampilan Login Page (sangat sederhana)
 ![Image of Yaktocat](https://github.com/bagasbudhi/Vehicle-counting-on-parking-area/blob/Overview/Dokumentasi%201.png)
 
 
-Tampilan grafiknya. Kedepannya harusnya bisa buat Data Analytic lalu bisa prediksi... semoga ada yang lanjutin.. semoga nanti kalo selo
+Tampilan grafiknya. Kedepannya harusnya bisa buat Data Analytic lalu bisa prediksi... semoga ada yang lanjutin.. semoga nanti kalo seloTampilan 
 
+### Tampilan Fusionchart
 
 ![Image of Yaktocat](https://github.com/bagasbudhi/Vehicle-counting-on-parking-area/blob/Overview/Dokumentasi%202.png)
