@@ -13,7 +13,7 @@ Tools: `Fusion Chart`, `Django Web Frame Work`, `PostGRE SQL`
 Ini foto kami cia cia cia KP beres Puji Tuhan Alhamdulillah
 
 ## Simple web dashboard with login page
-
+login page untuk user
 ![Image of Yaktocat](https://github.com/bagasbudhi/Vehicle-counting-on-parking-area/blob/Overview/Dokumentasi%201.png)
 
 ## Fusionchart library using Django web framework.. 
