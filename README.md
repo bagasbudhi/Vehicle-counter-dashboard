@@ -1,5 +1,5 @@
 # Vehicle-counting-on-parking-area
-#### As my project in Xirka silicon 
+#### Dashboard for vehicle counter system build with Django web framework as my project in Xirka Silicon Technology 
 
 ### KP Xirka Sillicon Tech Des 2018 -Feb 2019
 Buat dashboard pake Django Web Framework untuk perhitungan kendaraan masuk keluar tempat parkir
